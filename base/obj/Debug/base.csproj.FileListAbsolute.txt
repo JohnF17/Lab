@@ -1,0 +1,8 @@
+C:\Users\Netsi\Desktop\YN\hilcoe\base\base\obj\Debug\base.csproj.AssemblyReference.cache
+C:\Users\Netsi\Desktop\YN\hilcoe\base\base\obj\Debug\base.csproj.SuggestedBindingRedirects.cache
+C:\Users\Netsi\Desktop\YN\hilcoe\base\base\obj\Debug\base.csproj.CoreCompileInputs.cache
+C:\Users\Netsi\Desktop\YN\hilcoe\base\base\bin\Debug\@base.exe.config
+C:\Users\Netsi\Desktop\YN\hilcoe\base\base\bin\Debug\@base.exe
+C:\Users\Netsi\Desktop\YN\hilcoe\base\base\bin\Debug\@base.pdb
+C:\Users\Netsi\Desktop\YN\hilcoe\base\base\obj\Debug\@base.exe
+C:\Users\Netsi\Desktop\YN\hilcoe\base\base\obj\Debug\@base.pdb
